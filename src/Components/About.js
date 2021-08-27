@@ -3,7 +3,7 @@ import about from './../images/about.jpg'
 
 function About(props) {
   return (
-    <section id='about' className="container grid">
+    <section id='about' className="container grid section">
       <div className="header-container pos-rel">
         <h2 className="marker marker-center">About Me</h2>
       </div>

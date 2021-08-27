@@ -133,8 +133,9 @@ img {
 }
 
 .section {
-  padding: 2rem 0 4rem;
+  padding: 1rem 0 0rem;
 }
+
 .section__title {
   font-size: var(--h1-font-size);
 }
@@ -186,13 +187,16 @@ img {
   }
 
   .section {
-    padding: 6rem 0 2rem;
+    padding: 4rem 0 0rem;
   }
 
 }
 
 /*for medium screen*/
 @media screen and (min-width: 568px){
+  .section {
+    padding: 4rem 0 0rem;
+  }
 }
 
 @media screen and (min-width: 768px) {
@@ -207,7 +211,7 @@ img {
     padding: 0px 1rem
   }
   .section {
-    padding: 6rem 0 4rem;
+    padding: 4rem 0 0rem;
   }
 
 }
@@ -220,6 +224,6 @@ img {
     margin-left: var(--mb-2);
   }
   .section {
-    padding: 6rem 0 5rem;
+    padding: 4rem 0 0rem;
   }
 }

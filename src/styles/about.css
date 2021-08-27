@@ -81,11 +81,15 @@
 }
 
 @media screen and (min-width: 768px) {
-
+    .about-me-data {
+        margin: 0 19px;
+    }
 }
 
 /*for larger screen */
 @media screen and (min-width: 1024px) {
-
+    .about-me-data {
+        margin: 0 19px;
+    }
 }
 

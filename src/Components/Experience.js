@@ -39,7 +39,7 @@ function Experience(props) {
   ];
 
   return (
-    <section id='experience' className="container grid">
+    <section id='experience' className="container grid section">
       <div className="header-container pos-rel">
         <h2 className="marker marker-center">Experience</h2>
       </div>
